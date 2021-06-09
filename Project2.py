@@ -7,6 +7,7 @@ value = randint(1,100)
 num1 = value
 guess1=10
 print("\n \t \t \tGame Starts Now\n\nYou have 9 guesses")
+print("Number is Between 1 and 100")
 
 while(guess1>0):
     guess1 = guess1-1
