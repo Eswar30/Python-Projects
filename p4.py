@@ -1,5 +1,5 @@
 # project 4
-# Rock Paper Scissor
+# Rock Paper Scissor game
 
 import random
 a = ["rock","paper","scissor"]
