@@ -1,5 +1,5 @@
 # Project 1
-# Guess The Gumber Game
+# Guess The Number Game
 
 from random import randint
 
