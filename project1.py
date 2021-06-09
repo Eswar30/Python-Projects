@@ -1,5 +1,5 @@
 # Project 1
-# Tradidional calaculator
+# Tradidional calaculator 
 
 print("\t \t Calaculator\n")
 op= input("select operator\n + for addition\n - for subtraction\n * for multiplication\n / for division\nYou choose :  ")
